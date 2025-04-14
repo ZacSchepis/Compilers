@@ -1,0 +1,19 @@
+class Program {
+    int y;
+  int main(int argc) {
+    int x;
+
+    x = 1;
+    for x = 42, 10 + 20 {
+        print(x);
+        if (x == 42) {
+            print(x);
+            break;
+        } else {
+            print(y);
+            continue;
+        }
+    }
+    return 0;
+  }
+}

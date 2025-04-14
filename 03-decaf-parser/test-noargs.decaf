@@ -1,0 +1,17 @@
+class Program {
+    int y;
+
+    int myfun() {
+        int x;
+        print();
+    }
+  int main(int argc) {
+    int x;
+
+    x = 1;
+    if (x == 42) {
+        print();
+    }
+    return 0;
+  }
+}

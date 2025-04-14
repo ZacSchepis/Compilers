@@ -1,0 +1,9 @@
+class Program {
+    int y;
+  int main (int argc) {
+    int x;
+
+    print(x);
+    return 0;
+  }
+}

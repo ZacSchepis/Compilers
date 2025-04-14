@@ -1,0 +1,14 @@
+class Program {
+    int y;
+  int main(int argc) {
+    int x;
+
+    x = 1;
+    if (x == 42) {
+        print(x);
+    } else {
+        print(y);
+    }
+    return 0;
+  }
+}
