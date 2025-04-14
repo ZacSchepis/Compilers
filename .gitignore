@@ -1,0 +1,5 @@
+**/build/*
+**/windows/*
+**/.vscode
+*.exe
+**/.idea
